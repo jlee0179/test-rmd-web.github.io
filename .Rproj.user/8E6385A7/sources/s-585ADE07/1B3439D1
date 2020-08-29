@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598676105160.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "283843628",
+    "id" : "1B3439D1",
+    "lastKnownWriteTime" : 1598269300,
+    "last_content_update" : 1598269300,
+    "path" : "~/Desktop/ETC5523/lecture-04-rmarkdown-website/post2.Rmd",
+    "project_path" : "post2.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
